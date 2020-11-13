@@ -52,15 +52,15 @@ In order to create an interactive SVG on SVGator, we need to make sure that all 
 
 ### Importing SVG Files Into Your Website
 
-1. Let's start off by adding <code>baby.svg</code> into the <code>image</code> folder.
+1. Let's start off by adding <code>baby.svg</code> into the <code>images</code> folder.
 
 1. Next, we need to adjust our layout to incorporate our new image. We we utilize Bootstrap to do so (see my note at the bottom or additional information on the Bootstrap link listed below). Jump to line 103 in <code>index.html</code>. Replace the current <code>div</code> with the following class: 
-<code> class="col-lg-5 col-md-5 col-sm-10 col-10 my-auto mx-auto order-xl-1 order-lg-1 order-md-2 order-sm-2 order-2" </code>
+<code> class="col-lg-5 col-md-5 col-sm-10 col-10 my-auto mx-auto order-1" </code>
 
 1. At the end of the <code>p</code> ending in line 114 or 115 with the words "and there was morning—the sixth day." close the <code> div </code> out.
 
 1. Add a new <code>div</code> immediately after with the class of':
-<code>class="col-lg-5 col-md-5 col-sm-10 col-10 my-auto mx-auto order-xl-2 order-lg-2 order-md-1 order-sm-1 order-1"</code>
+<code>class="col-lg-5 col-md-5 col-sm-10 col-10 my-auto mx-auto order-2"</code>
 Do not close this <code>div</code> because there is an extra close tag, where the old div had closed.
 
 1. In order for your animation to work on your website we need to order some things to make it work.If we are importing an animated svg, then we can not simply add it in as an image, we need to add it in using javascript. To do this we need to add jquery into the head of our website.
