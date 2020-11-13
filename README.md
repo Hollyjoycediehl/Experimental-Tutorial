@@ -42,7 +42,7 @@ Once this step is completed save the file as  <code>baby.svg</code>
 ### Creating Animation In SVGator
 I thought it would be easier for you to follow along with me! Watch this tutorial I made on loom to follow along the animation process!
 
-:movie_camera:  [Follow Along With My SVGator Animation Tutorial On Loom!]()
+:movie_camera:  [Follow Along With My SVGator Animation Tutorial On Loom!](https://www.loom.com/share/4ef3976b5bee4e6a8c1b19cd18ac1645)
 
 ### Exporting SVG From SVGator
 In order to create an interactive SVG on SVGator, we need to make sure that all of our export settings on SVGator are correct. We need to make sure that the animation type is set to <code>javascript</code>, the animation type is set to <code>scroll into view</code>, and the document is set to <code>responsive</code>. Verify with the with the screenshot below:
