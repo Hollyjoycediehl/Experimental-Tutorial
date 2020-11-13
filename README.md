@@ -3,7 +3,7 @@ If you are like me then you have been getting increasingly invested in the web t
 
 I wanted to use some background knowledge of Bootstrap's respnsive layout capabilities to build out a responsive site with __interactive and responsive SVGs__. Using the 6 days of creation as text of the website, I created Mary Blair inspired images to represent the 6 days. (See Example of Mary Blair's artwork for the creation of Disney's It's a Small World).
 
-![maryblair](maryblair.jpg)
+![maryblair](Links/maryblair.jpg)
 
 ## SVG Creation (please note this tutorial may cost you :dollar: :dollar: :dollar:)
 First off, let's talk about SVGs...
@@ -14,7 +14,7 @@ In a lot of my research, the company [SVGator](https://www.svgator.com/) kept on
 
 __Things To Do For This Tutorial__
 * Fork my project
-* Download This <code>.ai</code> [file](baby.ai)
+* Download This <code>.ai</code> [file](Links/baby.ai)
 * Signup for a Premium [SVGator](https://www.svgator.com/) Account
   * SVGator comes at a price (for interactive SVG capabilities like we will use) the cost is $18 a month ($12 for annual billing). Personally, to me it is worth it as I would like to work on some upcoming personal projects over break (like my wedding website). It also does all of the heavy lifting for you, so it will condense many hours of work for you!
 
@@ -28,7 +28,7 @@ To make an SVG, we need to begin in Adobe Illustrator. Any <code>.ai</code> file
 
 Unlike setting up the files for Adobe After Effects, you want to keep all the parts inside of one layer. Give each item or groups of items a name with in the same layer. (See image below).
 
-![illustrator](illustrator.jpg)
+![illustrator](Links/illustrator.jpg)
 
 Open the file <code> baby.ai </code> illustrator. Using the groups or paths that currently exist rename the parts with in the layer the following:
 * <code>baby-body</code>
@@ -47,7 +47,7 @@ I thought it would be easier for you to follow along with me! Watch this tutoria
 ### Exporting SVG From SVGator
 In order to create an interactive SVG on SVGator, we need to make sure that all of our export settings on SVGator are correct. We need to make sure that the animation type is set to <code>javascript</code>, the animation type is set to <code>scroll into view</code>, and the document is set to <code>responsive</code>. Verify with the with the screenshot below:
 
-![export](export.png)
+![export](Links/export.png)
 
 
 ### Importing SVG Files Into Your Website
