@@ -14,7 +14,7 @@ In a lot of my research, the company [SVGator](https://www.svgator.com/) kept on
 
 __Things To Do For This Tutorial__
 * Fork my project
-* Download This <code>.ai</code> [file](Links/baby.ai)
+* Download the <code>.ai</code> file in <code>Links</code>
 * Signup for a Premium [SVGator](https://www.svgator.com/) Account
   * SVGator comes at a price (for interactive SVG capabilities like we will use) the cost is $18 a month ($12 for annual billing). Personally, to me it is worth it as I would like to work on some upcoming personal projects over break (like my wedding website). It also does all of the heavy lifting for you, so it will condense many hours of work for you!
 
