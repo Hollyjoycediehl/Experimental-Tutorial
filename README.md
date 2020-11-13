@@ -78,7 +78,9 @@ But since it is already programmed for javascript we need a different tag than a
 * <code> data="images/baby.svg" </code> 
   * the data here will grab the codes that were programmed into the svg file that we imported in from SVGator
   
- Once you have added in the <code> object </code> element, the SVG should be up and running! Go check it out!
+ Once you have added in the <code> object </code> element, the SVG should be up and running! Go check it out! Here is what it should look like:
+ 
+ ![completed](Links/completed)
  
 *Side Note On Making the Layout Responsive*
  
