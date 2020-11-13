@@ -80,7 +80,7 @@ But since it is already programmed for javascript we need a different tag than a
   
  Once you have added in the <code> object </code> element, the SVG should be up and running! Go check it out! Here is what it should look like:
  
- ![completed](Links/completed)
+ ![completed](Links/completed.png)
  
 *Side Note On Making the Layout Responsive*
  
